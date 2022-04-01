@@ -39,4 +39,4 @@ do
  echo " "
 done
 
-echo "closing"
+echo "closing program"

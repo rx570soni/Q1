@@ -5,3 +5,4 @@ read b
 read c
 
 echo -e "a: "$a "\nb: "$b "\nc: "$c
+

@@ -1,0 +1,46 @@
+step1: make repository Q1
+
+step2: make sh file by touch ans.sh
+
+step3: get a,b,c values from user 
+
+step4: upload the code on git repository
+
+step5: enter the differnt expression to compute the code 
+
+
+((compute1 = a + b * c)) AND update the code on git repository
+
+
+((compute2 = a * b + c)) AND update the code on git repository
+
+((compute3 = c + a / b)) AND update the code on git repository
+
+((compute4 = a % b + c)) AND update the code on git repository
+
+
+step6: declare dictonary 
+
+declare -A associative
+associative[key1]=$compute1
+associative[key2]=$compute2
+associative[key3]=$compute3
+associative[key4]=$compute4
+
+NOTE: update the code on git repository
+
+step7: declare the array and insert the values of dictonary
+
+arr=([1]=${associative[key1]} [2]=${associative[key2]} [3]=${associative[key3]} [4]=${associative[key4]})
+
+NOTE: update the code on git repository
+
+step8: now by using the concept of loop 
+
+step9: first run Descending loop
+
+step10 print the values in eaach loop 
+
+step11: the run ascending loop
+
+step12: update the code on git repository
